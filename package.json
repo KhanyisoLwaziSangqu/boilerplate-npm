@@ -1,6 +1,6 @@
 {
-	"author": "Khanyiso Lwazi Sangqu",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Khanyiso Lwazi Sangqu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
